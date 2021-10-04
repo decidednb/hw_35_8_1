@@ -27,7 +27,7 @@ func Test_randProverbIndex(t *testing.T) {
 				max: 0,
 			},
 		}, {
-			name: "Кейс 4",
+			name: "Кейс 3",
 			args: args{
 				max: 5,
 			},
